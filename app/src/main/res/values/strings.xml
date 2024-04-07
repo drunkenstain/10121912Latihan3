@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title1">Monalisa</string>
+    <string name="year1">Italia 1517</string>
+    <string name="title2">The Starry Night</string>
+    <string name="year2">Prancis 1889</string>
+    <string name="title3">Penangkapan Pangeran Diponegoro</string>
+    <string name="year3">Indonesia 1857</string>
+</resources>
